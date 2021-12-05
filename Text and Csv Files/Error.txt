@@ -1,0 +1,2 @@
+Number should be greater than zero -> BusDetails{busNo='202I', totalSeats=-2, totalCommonSeats=-3, totalWomenOnlySeats=-4, totalSpecialSeats=-5, availableCommonSeats=-6, availableWomenSeats=-8, availableSpecialSeats=0}
+Bus No is Invalid -> BusDetails{busNo='2002_', totalSeats=24, totalCommonSeats=7, totalWomenOnlySeats=12, totalSpecialSeats=1, availableCommonSeats=26, availableWomenSeats=2, availableSpecialSeats=0}
